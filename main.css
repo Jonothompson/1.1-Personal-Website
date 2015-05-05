@@ -1,0 +1,84 @@
+html{
+ height:100%;
+ min-height:100%;
+ }
+
+body{
+  text-align: center;
+  background: url("https://download.unsplash.com/reserve/3wBPUcDrR9KaduD3PvkY_DSC_0915.JPG");
+  color: black;
+  font-family: Helvetica;
+  background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  align-content: center;
+}
+
+.center-content {
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+h1 {
+  border: solid;
+  display: inline;
+  margin: -150px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  }
+
+h2 {
+  margin: -75px;
+}
+
+.link-icons {
+  display: inline;
+  float: left;
+  margin-left: -810px;
+  margin-top: 480px;
+}
+
+.about-content {
+  left: 0;
+  line-height: 200px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.about  {
+  float: left;
+  margin-top: 177px;
+  margin-left: 15px;
+  border: none;
+}
+
+.about-me {
+  float: left;
+  margin-top: 235px;
+  margine-left: -125px;
+  height: 200px;
+  width: 500px;
+  text-align: left;
+  font-size: 20px;
+}
+
+#profile-pic {
+  height: 300px;
+  width: 230px;
+  float: left;
+  margin: auto;
+  border: solid;
+  margin-left: 75px;
+  margin-top: 175px;
+  padding: 2px;
+}
